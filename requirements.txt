@@ -1,0 +1,9 @@
+torch>=2.0.0
+fair-esm
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+matplotlib
+seaborn
